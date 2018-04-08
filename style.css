@@ -334,7 +334,7 @@ ul li {
 }
 
 ul li a {
-    padding: 15px 28px;
+    padding: 12px 28px;
     color: #fff;
     display: block;
     text-decoration: none;
@@ -474,7 +474,7 @@ transition: 1s all;
 .right img {
     max-height: 400px;
     max-width: 350px;
-    filter: grayscale(100%);
+    filter: sepia(20%);
 }
 
 .details-info {
